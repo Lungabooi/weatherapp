@@ -1,6 +1,6 @@
 import requests
 # creating a viriable for api key
-api_key = 'ebbfc86a6aa7d61ddf094e7df2e69d83'
+api_key = '?'
 
 # Asking user to enter city and print the user input 
 user_input = input("Enter city :  ")
